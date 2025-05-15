@@ -46,6 +46,5 @@ The Teamworkstate member profile feature allows you to link to your profiles on 
 This is a living document. If you have suggestions, corrections, or additions, please submit a pull request or open an issue.
  
 ## License
- 
-License
-These resources are available under the Creative Commons Attribution 4.0 International License, which means you are free to use, adapt, and share them as long as you provide attribution.
+
+These resources are available under the [Creative Commons Attribution 4.0 International License](LICENSE), which means you are free to use, adapt, and share them as long as you provide attribution.
