@@ -47,4 +47,5 @@ This is a living document. If you have suggestions, corrections, or additions, p
  
 ## License
  
-[MIT License](LICENSE)
+License
+These resources are available under the Creative Commons Attribution 4.0 International License, which means you are free to use, adapt, and share them as long as you provide attribution.
