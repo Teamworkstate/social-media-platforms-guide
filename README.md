@@ -1,6 +1,6 @@
 # Social Media Platforms Guide
  
-A comprehensive guide to social media platforms for Teamworkstate community members.
+A comprehensive guide to social media platforms for [Teamworkstate](https://www.teamworkstate.com) community members.
  
 ## Overview
  
